@@ -1,7 +1,6 @@
 import "../styles/globals.css";
 
 import AppLayout from "../components/AppLayout";
-import Head from "next/head";
 
 interface AppProps {
   Component: React.ElementType;
